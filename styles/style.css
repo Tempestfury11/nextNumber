@@ -1,0 +1,23 @@
+body{
+  border: none; 
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: grey;
+  color: turquoise;
+}
+
+.container{
+    border: none; 
+    padding: 10px;
+    border-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 10rem;
+    width: 50%;
+    background-color: black;
+}
