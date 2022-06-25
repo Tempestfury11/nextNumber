@@ -5,8 +5,8 @@ body{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  background-color: grey;
-  color: turquoise;
+  background-color: navy;
+  color: red;
 }
 
 .container{
@@ -19,5 +19,5 @@ body{
     margin-bottom: 20px;
     margin-top: 10rem;
     width: 50%;
-    background-color: black;
+    background-color: white;
 }
